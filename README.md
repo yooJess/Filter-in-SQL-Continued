@@ -1,4 +1,4 @@
-<h1>IN PROG: Filtering an SQL Query (Continued)</h1>
+<h1>Filtering an SQL Query (Continued)</h1>
 
 <h2>Description</h2>
 In this project, we will be filtering an SQL Query, moreso we'll be utilizing and applying filters to find certain criteria to investigate a security incident.<br/> 
